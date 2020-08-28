@@ -12,8 +12,8 @@
 }
 
 .fit-chick {
-  width: 700px;
-  height: 900px;
+  width: 800px;
+  height: 1000px;
 }
 
 aside {
@@ -45,14 +45,14 @@ section {
   border: 1px solid gainsboro;
   margin: 30px 30px;
   padding: 30px;
-  width: 250px;
-  height: 300px;
+  width: 275px;
+  height: 325px;
   float: align;
 }
 
 img {
   width: 175px;
-  height: 250px;
+  height: 300px;
 }
 
 header,
