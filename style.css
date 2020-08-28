@@ -1,23 +1,12 @@
 /* Website Styles */
 
-/* <img class="photo" />
-
-<h2 class="title">Title</h2>
-
 <div class="post post-featured">
   <h2>Post title</h2>
   <p>Post description</p>
 </div> */
 
-/*
-.title {
-  font-size: 48px;
-  text-decoration: underline;
-} */
-
 * {
   font-size: 100%;
-  margin: 20;
   line-height: 1;
   box-sizing: border-box;
 }
@@ -58,12 +47,6 @@ section {
   float: align;
 }
 
-/* .logo {
-  width: 200px;
-  height: 200px;
-  float: center;
-} */
-
 img {
   width: 200px;
   height: 215px;
@@ -91,24 +74,8 @@ body {
   background-color: black;
   color: white;
   font-family: Raleway;
-  font-size: 18px;
-  margin: 100px 15px;
+  margin: 100px 20px;
 }
-
-h1 {
-  margin: 30px 0;
-}
-
-/* section {
-  border: 1px dashed red;
-} */
-/* p {
-  margin: 15px 0;
-}
-
-ul, ol {
-  margin: 15px 0;
-} */
 
 h1, h2, h3 {
   margin-bottom: 50px;
@@ -120,6 +87,7 @@ h1, h2, h3 {
     font-family: Raleway;
     font-weight: 800;
     text-align: center;
+    margin: 30px 0;
 }
 
 header h1 {
@@ -130,9 +98,8 @@ h2 {
   font-size: 24px;
   font-weight: light;
   font-family: Raleway;
-  font-color: grey;
   margin-top: 60px;
-  margin-bottom: 60
+  margin-bottom: 60;
 }
 
 h3 {
