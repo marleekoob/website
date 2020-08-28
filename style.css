@@ -11,9 +11,9 @@
   box-sizing: border-box;
 }
 
-.fit-chick{
-  width: 1020px;
-  height: 1335px;
+.fit-chick {
+  width: 800px;
+  height: 1000px;
   right-margin: 30px;
 }
 
@@ -26,7 +26,6 @@
   width: 675px;
   height: 300px;
 }
-
 
 .right {
   float: right;
@@ -48,12 +47,12 @@ section {
 }
 
 img {
-  width: 200px;
+  width: 175px;
   height: 215px;
 }
 
 aside {
- right-margin:50px;
+ right-margin:30px;
  float: right;
 }
 
@@ -81,7 +80,7 @@ h1, h3 {
   margin-bottom: 50px;
 }
 
-  h1 {
+h1 {
     color: darkred;
     font-size:76px;
     font-family: Raleway;
